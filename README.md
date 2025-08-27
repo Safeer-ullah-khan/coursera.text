@@ -1,1 +1,1 @@
-# coursera.text
+# Mini_Projects_Repo
